@@ -42,6 +42,7 @@ https://www.youtube.com/@jonatanfernandez4309
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+
 <br>
 
 - **Softwares and Tools**:
@@ -52,6 +53,7 @@ https://www.youtube.com/@jonatanfernandez4309
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
+
 <br>
 
 - **AI assistants, chatbots, and machine learning platforms**:
@@ -59,6 +61,7 @@ https://www.youtube.com/@jonatanfernandez4309
    ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
    ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
    ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
 
 <br>
 
@@ -79,6 +82,7 @@ https://www.youtube.com/@jonatanfernandez4309
 - **Continuous integration and deployment services**:
 
    ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 - **Cloud file storage and sync services**:
 
