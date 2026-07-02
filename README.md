@@ -1,7 +1,7 @@
 <img width="1536" height="641" alt="image" src="https://github.com/user-attachments/assets/8f466fd2-9015-411b-b21b-87a191189c63" /><div align="center">
 <h1 align="center">Hola, soy <a href="">Jonatan Fernandez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/4S1MeWS.jpeg">
+<!-- <img src="https://i.imgur.com/4S1MeWS.jpeg"> -->
 
 
 https://www.youtube.com/@jonatanfernandez4309
