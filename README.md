@@ -54,7 +54,7 @@ https://www.youtube.com/@jonatanfernandez4309
 
 <br>
 
-- **AI assistants, chatbots, and machine learning platforms.**
+- **AI assistants, chatbots, and machine learning platforms**:
 
    ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
    ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
@@ -67,7 +67,7 @@ https://www.youtube.com/@jonatanfernandez4309
 </p>
 
 
-- **Web browsers.**
+- **Web browsers**:
 
    ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
    ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
@@ -76,24 +76,17 @@ https://www.youtube.com/@jonatanfernandez4309
    ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
 
-### 🔬 CI
-
-Continuous integration and deployment services.
+- **Continuous integration and deployment services**:
 
    ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
-### 📂 Cloud Storage
-
-Cloud file storage and sync services.
+- **Cloud file storage and sync services**:
 
    ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) 
    ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)    
 
 
-### 💾 Databases
-
-Database management systems.
+- **Database management systems**:
 
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   
