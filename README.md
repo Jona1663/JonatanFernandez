@@ -121,6 +121,14 @@ Markdown
 <div align='center'>
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jona1663&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jona1663&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
 ## 🚀 Proyectos 
 
 <table align="center">
