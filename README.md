@@ -2,7 +2,7 @@ Markdown
 <div align="center">
   <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/8f466fd2-9015-411b-b21b-87a191189c63" />
   
-  <h1>Hola, soy Jonatan Fernandez 👋</h1>
+  <h1>Hola, soy Jonatan Fernandez</h1>
   
   <a href="https://www.youtube.com/@jonatanfernandez4309" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Canal"/>
@@ -122,11 +122,11 @@ Markdown
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanFernandez&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jona1663&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jona1663&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jona1663&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ## 🚀 Proyectos 
