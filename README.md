@@ -126,7 +126,7 @@ Markdown
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jona1663&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jona1663&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 ## 🚀 Proyectos 
