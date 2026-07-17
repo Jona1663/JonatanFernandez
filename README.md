@@ -119,14 +119,19 @@ Markdown
 <br>
 
 <div align='center'>
----
+  <h2>📊 GitHub Stats</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jona1663&show_icons=true&theme=tokyonight&include_all_commits=true&v=2" alt="GitHub Stats" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jona1663&layout=compact&theme=tokyonight&v=2" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jona1663&show_icons=true&theme=tokyonight&include_all_commits=true&v=2" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Jona1663&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Proyectos 
