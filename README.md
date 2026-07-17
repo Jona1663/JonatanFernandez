@@ -134,6 +134,13 @@ Markdown
   <img src="https://streak-stats.demolab.com/?user=Jona1663&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jona1663&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jona1663&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 
 ## Proyectos destacados
