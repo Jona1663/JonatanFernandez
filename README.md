@@ -54,19 +54,19 @@ Markdown
 
 - **Herramientas, DevOps y SO**<br>
 ![Git](https://img.shields.io/badge/git-%232A3B5C.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23383366.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%23452C6C.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23552673.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23651E75.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%23751774.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23851573.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%2331385F.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23383366.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23383366.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23452C6C.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%234B276E.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23552673.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - **Diseño y Creatividad**:<br>
 ![Figma](https://img.shields.io/badge/figma-%232A3B5C.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%233D3169.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%23552673.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%236D1D74.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Drawio](https://img.shields.io/badge/drawio-%23851573.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2331385F.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%23383366.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23383366.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Drawio](https://img.shields.io/badge/drawio-%23452C6C.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
 - **Ofimática y Productividad**:<br>
 ![Google Sheets](https://img.shields.io/badge/Sheets-%232A3B5C.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
