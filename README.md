@@ -18,6 +18,15 @@ Markdown
 - Técnico Informático Universitario
 - Egresado de la [Universidad Nacional de General Sarmiento (UNGS)](https://www.ungs.edu.ar/)
 
+## Mi enfoque
+- Me apasiona desarrollar software orientado a resolver problemas empresariales y de logística.
+- Actualmente me estoy enfocando en crear sistemas robustos (ERP, tracking, control de stock) para fábricas y empresas de transporte, priorizando el rendimiento y la escalabilidad del backend.
+
+### Metodologías y Trabajo en Equipo
+- **Desarrollo Ágil:** Experiencia trabajando con metodologías Scrum y división de tareas por Sprints.
+- **Gestión de Proyectos:** Manejo de la "Triple Restricción" (Tiempos, Costos y Calidad) para asegurar el cumplimiento de objetivos.
+- **Colaboración:** Uso activo de GitHub Projects, revisión de código y resolución de conflictos mediante Pull Requests en equipos de desarrollo.
+
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills y Tecnologías
@@ -92,6 +101,10 @@ Markdown
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Jona1663/count.svg" alt="Visitor Count" />
+</div>
 
 <ul>
 
