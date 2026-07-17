@@ -43,7 +43,7 @@ Markdown
 
 - **Front-End**:<br>
 ![HTML5](https://img.shields.io/badge/HTML5-%232A3B5C.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%23851573.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23353562.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Back-End & Bases de Datos**:<br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%232A3B5C.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -79,16 +79,16 @@ Markdown
 ![Discord](https://img.shields.io/badge/Discord-%232A3B5C.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%2331385F.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-%23383366.svg?style=for-the-badge&logo=gmail&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Meet-%233D3169.svg?style=for-the-badge&logo=google-meet&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Meet-%23383366.svg?style=for-the-badge&logo=google-meet&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-%23452C6C.svg?style=for-the-badge&logo=zoom&logoColor=white)
 ![Skype](https://img.shields.io/badge/Skype-%234B276E.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-%23552673.svg?style=for-the-badge&logo=telegram&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-%235C2274.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-%23651E75.svg?style=for-the-badge&logo=messenger&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%236D1D74.svg?style=for-the-badge&logo=reddit&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%23751774.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%237D1673.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-%23851573.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%232A3B5C.svg?style=for-the-badge&logo=reddit&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%2331385F.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23383366.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-%23383366.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 
 - **IA & Data**:<br>
 ![NumPy](https://img.shields.io/badge/NumPy-%232A3B5C.svg?style=for-the-badge&logo=numpy&logoColor=white)
