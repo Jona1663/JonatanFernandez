@@ -145,22 +145,22 @@ Markdown
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h3>LogiTrack</h3>
+      <h3>📦 LogiTrack</h3>
       <a href="https://github.com/Jona1663/Logitrack-UNGS" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jona1663&repo=Logitrack-UNGS&theme=tokyonight&hide_border=true" width="400" alt="LogiTrack">
+        <img src="https://raw.githubusercontent.com/Jona1663/Logitrack-UNGS/main/frontend/public/images/logo-logitrack.png" width="280" alt="LogiTrack Logo">
       </a>
       <br>
       <p><strong>Sistema de Logística y Tracking</strong></p>
       <p>Aplicación para el seguimiento de envíos, manejo de historiales de estado y gestión de prioridades logísticas. Desarrollada con <strong>Spring Boot, JavaScript y PostgreSQL</strong>.</p>
     </td>
     <td width="50%" align="center">
-      <h3>Página Web de Noticias</h3>
-      <a href="https://github.com/TatianaLovera/paginaWebNoticias" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TatianaLovera&repo=paginaWebNoticias&theme=tokyonight&hide_border=true" width="400" alt="Página Web de Noticias">
+      <h3>� Proyecto 2</h3>
+      <a href="ENLACE_A_TU_REPOSITORIO" target="_blank">
+        <img src="https://via.placeholder.com/400x200.png?text=Proyecto+2" width="400" alt="Proyecto 2">
       </a>
       <br>
-      <p><strong>Colaboración en proyecto de noticias</strong></p>
-      <p>Participé en el desarrollo de una <strong>página web de noticias</strong>, aportando en la estructura y la presentación de contenido en frontend.</p>
+      <p><strong>Título de tu proyecto</strong></p>
+      <p>Breve descripción de lo que hace el proyecto, tecnologías utilizadas y qué problema resuelve.</p>
     </td>
   </tr>
 </table>
