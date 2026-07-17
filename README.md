@@ -126,11 +126,19 @@ Markdown
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jona1663&theme=tokyonight" alt="GitHub profile details" />
 </div>
 
+
+<div align='center'>
+  <h2>📊 Perfil profesional en GitHub</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jona1663&theme=tokyonight" alt="GitHub profile details" />
+</div>
+
 <div align="center">
   <h3>🌍 Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jona1663&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
 </div>
-
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jona1663&theme=tokyonight" alt="Most committed language" />
