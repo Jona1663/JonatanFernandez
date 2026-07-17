@@ -119,22 +119,28 @@ Markdown
 <br>
 
 <div align='center'>
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 Perfil profesional en GitHub</h2>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jona1663&show_icons=true&theme=tokyonight&include_all_commits=true&v=2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jona1663&show_icons=true&theme=tokyonight&include_all_commits=true&v=2" alt="GitHub overview stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jona1663&layout=compact&theme=tokyonight&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jona1663&layout=compact&theme=tokyonight&v=2" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jona1663&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Jona1663&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-## 🚀 Proyectos 
+<div align="center">
+  <a href="https://github.com/Jona1663/Logitrack-UNGS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jona1663&repo=Logitrack-UNGS&theme=tokyonight&hide_border=true" alt="Repositorio Logitrack-UNGS" />
+  </a>
+</div>
+
+## 🚀 Proyectos destacados
 
 <table align="center">
   <tr>
