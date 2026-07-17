@@ -70,10 +70,10 @@ Markdown
 
 - **Ofimática y Productividad**:<br>
 ![Google Sheets](https://img.shields.io/badge/Sheets-%232A3B5C.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-%233D3169.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Office-%23552673.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-%236D1D74.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-%23851573.svg?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-%2331385F.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Office-%23383366.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-%23383366.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Word-%23452C6C.svg?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 - **Comunicación y Redes Sociales**:<br>
 ![Discord](https://img.shields.io/badge/Discord-%232A3B5C.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -88,14 +88,14 @@ Markdown
 ![Reddit](https://img.shields.io/badge/Reddit-%232A3B5C.svg?style=for-the-badge&logo=reddit&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%2331385F.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23383366.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-%23383366.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-%23452C6C.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 
 - **IA & Data**:<br>
 ![NumPy](https://img.shields.io/badge/NumPy-%232A3B5C.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%233D3169.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-%23552673.svg?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-%236D1D74.svg?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-%23851573.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%2331385F.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-%23383366.svg?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-%23383366.svg?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-%23452C6C.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
