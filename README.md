@@ -22,13 +22,6 @@ Markdown
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills y Tecnologías
 
-<div align="center">
-  <h3>⚡ Mi Stack Principal</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,js,git,docker&perline=6" alt="My Skills" />
-  </a>
-</div>
-
 - **Lenguajes de Programación**:<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -146,7 +139,7 @@ Markdown
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Desarrollo+Backend;Especialista+en+Spring+Boot;Ecosistema+Java+%2B+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Desarrollo+Backend;+Spring+Boot;Ecosistema+Java+%2B+PostgreSQL" alt="Typing SVG" />
 </div>
 
 
