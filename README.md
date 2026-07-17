@@ -127,20 +127,7 @@ Markdown
 </div>
 
 <div align="center">
-  <h3>🌍 Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jona1663&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jona1663&theme=tokyonight" alt="Most committed language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jona1663&theme=tokyonight" alt="Productive time" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jona1663&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jona1663&theme=tokyonight" alt="Repos per language" />
 </div>
 
 <div align="center">
