@@ -11,7 +11,7 @@ Markdown
 
 ---
 
-## 👨‍💻 Sobre mí
+##Sobre mí
 
 - **Github Learning**
 - Program Developer
@@ -119,7 +119,7 @@ Markdown
 <br>
 
 <div align='center'>
-  <h2>📊 Perfil profesional en GitHub</h2>
+  <h2>Perfil profesional en GitHub</h2>
 </div>
 
 <div align="center">
@@ -140,12 +140,12 @@ Markdown
   </a>
 </div>
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h3>📦 LogiTrack</h3>
+      <h3>LogiTrack</h3>
       <a href="https://github.com/Jona1663/Logitrack-UNGS" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jona1663&repo=Logitrack-UNGS&theme=tokyonight&hide_border=true" width="400" alt="LogiTrack">
       </a>
@@ -154,7 +154,7 @@ Markdown
       <p>Aplicación para el seguimiento de envíos, manejo de historiales de estado y gestión de prioridades logísticas. Desarrollada con <strong>Spring Boot, JavaScript y PostgreSQL</strong>.</p>
     </td>
     <td width="50%" align="center">
-      <h3>📰 Página Web de Noticias</h3>
+      <h3>Página Web de Noticias</h3>
       <a href="https://github.com/TatianaLovera/paginaWebNoticias" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=TatianaLovera&repo=paginaWebNoticias&theme=tokyonight&hide_border=true" width="400" alt="Página Web de Noticias">
       </a>
