@@ -157,7 +157,7 @@ Markdown
       <h3>Página Web de Noticias</h3>
       <a href="https://github.com/TatianaLovera/paginaWebNoticias" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=TatianaLovera&repo=paginaWebNoticias&theme=tokyonight&hide_border=true" width="400" alt="Página Web de Noticias">
-		<img src="https://raw.githubusercontent.com/TatianaLovera/paginaWebNoticias/blob/main/imagenes/logoMuni.jpg" width="280" alt="LogiTrack Logo">
+		<img src="https://raw.githubusercontent.com/TatianaLovera/paginaWebNoticias/main/imagenes/logoMuni.jpg" width="280" alt="Página Web de Noticias">
       </a>
       </a>
       <br>
