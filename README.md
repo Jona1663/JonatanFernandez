@@ -102,10 +102,6 @@ Markdown
 <br>
 <div align='left'>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jona1663/count.svg" alt="Visitor Count" />
-</div>
-
 <ul>
 
 <li>
