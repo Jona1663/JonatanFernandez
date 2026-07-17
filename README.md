@@ -139,7 +139,7 @@ Markdown
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jona1663&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jona1663&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 
