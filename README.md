@@ -123,11 +123,11 @@ Markdown
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jona1663&show_icons=true&theme=tokyonight&include_all_commits=true&v=2" alt="GitHub overview stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jona1663&theme=tokyonight" alt="GitHub profile details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jona1663&layout=compact&theme=tokyonight&v=2" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jona1663&theme=tokyonight" alt="Repos per language" />
 </div>
 
 <div align="center">
