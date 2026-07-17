@@ -123,6 +123,10 @@ Markdown
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Desarrollo+Backend;+Spring+Boot;Ecosistema+Java+%2B+PostgreSQL" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jona1663&theme=tokyonight" alt="GitHub profile details" />
 </div>
 
@@ -138,9 +142,7 @@ Markdown
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jona1663&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Desarrollo+Backend;+Spring+Boot;Ecosistema+Java+%2B+PostgreSQL" alt="Typing SVG" />
-</div>
+
 
 
 
