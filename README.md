@@ -134,11 +134,7 @@ Markdown
   <img src="https://streak-stats.demolab.com/?user=Jona1663&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Jona1663/Logitrack-UNGS" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jona1663&repo=Logitrack-UNGS&theme=tokyonight&hide_border=true" alt="Repositorio Logitrack-UNGS" />
-  </a>
-</div>
+
 
 ## Proyectos destacados
 
