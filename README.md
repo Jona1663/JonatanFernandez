@@ -156,7 +156,7 @@ Markdown
     <td width="50%" align="center">
       <h3>Página Web de Noticias</h3>
       <a href="https://github.com/TatianaLovera/paginaWebNoticias" target="_blank">
-	  <img src="https://raw.githubusercontent.com/TatianaLovera/paginaWebNoticias/main/imagenes/logoMuni.jpg" width="280" alt="Página Web de Noticias">
+	  <img src="https://raw.githubusercontent.com/TatianaLovera/paginaWebNoticias/main/imagenes/logoMuni.jpg" width="200" alt="Página Web de Noticias">
       </a>
       </a>
       <br>
